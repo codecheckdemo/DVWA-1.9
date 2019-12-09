@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<projectInfo xmlns="http://www.codepecker.com/project-info">
+  <bookmarks/>
+  <buildinfo>
+    <projectname>DVWA-1.9</projectname>
+    <oldprojectpath>G:\PHP\DVWA-1.9</oldprojectpath>
+    <projectpath>G:\PHP\DVWA-1.9</projectpath>
+    <projectsourcepath>G:\PHP\DVWA-1.9</projectsourcepath>
+    <detectdate>2017年02月23日 14时35分35秒</detectdate>
+    <filecount>0</filecount>
+    <execline>54897</execline>
+    <totalline>72050</totalline>
+    <sourcepath>rO0ABXA=</sourcepath>
+    <classpath>rO0ABXNyABNqYXZhLnV0aWwuQXJyYXlMaXN0eIHSHZnHYZ0DAAFJAARzaXpleHAAAAAAdwQAAAAKeA==</classpath>
+    <pathrelocate>false</pathrelocate>
+    <prepathlength>0</prepathlength>
+    <prepathlevels>0</prepathlevels>
+  </buildinfo>
+</projectInfo>
